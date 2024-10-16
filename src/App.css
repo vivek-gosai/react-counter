@@ -1,0 +1,48 @@
+.layout{
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.btn1{
+  margin-right: 15px;
+  padding: 2px 30px;
+  font-size: 30px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+.btn2{
+  margin-left: 15px;
+  padding: 2px 30px;
+  font-size: 30px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+.btn3{
+  margin-left: 15px;
+  padding: 2px 30px;
+  font-size: 30px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.card{
+  height:400px;
+  width: 350px;
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+  border-radius: 15px;
+  
+}
+.cen{
+  width: 100%;
+  display:flex ;
+  justify-content: center;
+}
